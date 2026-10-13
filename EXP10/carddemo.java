@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java applet program to demonstrate the CardLayout layout manager, which displays one button at a time and switches to the next button when clicked.
 
-//Algorithm:
+Algorithm:
 Start the program.
 Import the java.awt, java.applet, and java.awt.event packages.
 Create an applet class named carddemo that implements the ActionListener interface.
@@ -16,7 +17,8 @@ Execute the applet and click the buttons to switch between the cards.
 Stop the program.
 
 
-//program:
+*/
+
 import java.awt.*;
 import java.applet.*;
 import java.awt.event.*;
@@ -44,5 +46,7 @@ public class carddemo extends Applet implements ActionListener {
     }
 }
 
-//Result:
+/*
+Result:
 Thus, the Java applet program demonstrating the CardLayout layout manager was executed successfully. It displays one button at a time and switches to the next button whenever the currently displayed button is clicked.
+*/

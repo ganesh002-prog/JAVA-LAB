@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java program to generate the Fibonacci series up to n terms using a method.
 
-//Algorithm:
+Algorithm:
 Start the program.
 Import the Scanner class to read input from the user.
 Read the number of terms n.
@@ -17,7 +18,8 @@ Close the scanner.
 Stop the program.
 
 
-//program:
+*/
+
 import java.util.Scanner;
 public class FibonacciSeries {
     public static void main(String[] args) {
@@ -48,5 +50,7 @@ public class FibonacciSeries {
     }
 }
 
-//Result:
+/*
+Result:
 Thus, the Java program to generate the Fibonacci series up to n terms was executed successfully.
+*/

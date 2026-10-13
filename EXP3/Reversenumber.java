@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java program to reverse a given integer using a while loop.
 
-//Algorithm:
+Algorithm:
 Start the program.
 Import the Scanner class to read input from the user.
 Declare integer variables n and reverse, and initialize reverse = 0.
@@ -15,7 +16,8 @@ Close the scanner.
 Stop the program.
 
 
-//program:
+*/
+
 import java.util.Scanner;
 class Reversenumber {
     public static void main(String args[]) {
@@ -32,5 +34,7 @@ class Reversenumber {
     }
 }
 
-//Result:
+/*
+Result:
 Thus, the Java program to reverse a given integer using a while loop was executed successfully.
+*/

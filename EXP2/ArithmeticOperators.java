@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java program to perform arithmetic operations such as addition, subtraction, multiplication, division, and modulus using a menu-driven program and a switch statement.
     
-//Algorithm:
+Algorithm:
 Start the program.
 Import the Scanner class to read input from the user.
 Read two integer numbers.
@@ -18,7 +19,8 @@ Repeat the process until the user chooses to exit.
 Stop the program.
 
 
-//program:
+*/
+
 import java.util.Scanner;
 public class ArithmeticOperators {
     public static void main(String args[]) {
@@ -79,5 +81,7 @@ public class ArithmeticOperators {
     }
 }
 
-//Result:
+/*
+Result:
 Thus, the Java program to perform arithmetic operations using a menu-driven approach and a switch statement was executed successfully.
+*/

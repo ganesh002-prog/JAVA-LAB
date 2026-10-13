@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java applet program to demonstrate the GridLayout layout manager by arranging ten buttons in five rows and two columns.
 
-//Algorithm:
+Algorithm:
 Start the program.
 Import the java.awt and java.applet packages.
 Create an applet class named gld.
@@ -14,7 +15,8 @@ Execute the applet to display the buttons in a grid format.
 Stop the program
 
 
-//program:
+*/
+
 import java.awt.*;
 import java.applet.*;
 public class gld extends Applet {
@@ -46,5 +48,7 @@ public class gld extends Applet {
     }
 }
 
-//Result:
+/*
+Result:
 Thus, the Java applet program demonstrating the GridLayout layout manager was written and executed successfully.
+*/

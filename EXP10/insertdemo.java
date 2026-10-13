@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java applet program to demonstrate the use of BorderLayout for arranging buttons and a text area in the North, South, East, West, and Center regions.
 
-//Algorithm:
+Algorithm:
 Start the program.
 Import the java.awt and java.applet packages.
 Create an applet class named insertdemo.
@@ -14,7 +15,8 @@ Override the getInsets() method to set a 10-pixel margin on all sides.
 Execute the applet to display the components.
 Stop the program.
 
-//program:
+*/
+
 import java.awt.*;
 import java.applet.*;
 
@@ -42,5 +44,7 @@ public class insertdemo extends Applet {
     }
 }
 
-//Result:
+/*
+Result:
 Thus, the Java applet program demonstrating the BorderLayout layout manager was written successfully. The buttons are displayed in the North, South, East, and West regions, and the text area is displayed in the Center region with a cyan background.
+*/

@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java program to check whether a given number is even or odd using a switch statement.
 
-//Algorithm:
+Algorithm:
 Start the program.
 Import the Scanner class to read input from the user.
 Declare an integer variable n.
@@ -13,7 +14,8 @@ If the remainder is 1 or -1, display “This number is odd”.
 Close the scanner.
 Stop the program.
 
-//program:
+*/
+
 import java.util.*;
 class EvenOdd {
     public static void main(String args[]) {
@@ -34,5 +36,7 @@ class EvenOdd {
     }
 }
 
-//Result:
+/*
+Result:
 Thus, the Java program to check whether a given number is even or odd using a switch statement was executed successfully.
+*/

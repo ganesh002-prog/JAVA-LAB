@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java program to perform arithmetic operations such as addition, subtraction, multiplication, and division using separate classes and methods.
 
-//Algorithm:
+Algorithm:
 Start the program.
 Import the Scanner class.
 Create four static inner classes: Add, Sub, Mul, and Div.
@@ -15,7 +16,8 @@ Display the results of all four arithmetic operations.
 Stop the program.
 
     
-//program:
+*/
+
 import java.util.Scanner;
 public class ArithmeticOperators {
     static class Add {
@@ -51,5 +53,7 @@ public class ArithmeticOperators {
     }
 }
 
-//Result:
+/*
+Result:
 Thus, the Java program to perform addition, subtraction, multiplication, and division using separate classes and methods was executed successfully.
+*/

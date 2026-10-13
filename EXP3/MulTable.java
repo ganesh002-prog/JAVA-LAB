@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java program to print the multiplication table of a given number using a for loop.
 
-//Algorithm:
+Algorithm:
 Start the program.
 Import the Scanner class to read input from the user.
 Read an integer no from the user.
@@ -12,7 +13,8 @@ Display the multiplication table in the format no * i = result.
 Close the scanner.
 Stop the program.
 
-//program:
+*/
+
 import java.util.Scanner;
 public class MulTable {
     public static void main(String[] args) {
@@ -27,5 +29,7 @@ public class MulTable {
     }
 }
 
-//Result:
+/*
+Result:
 Thus, the Java program to print the multiplication table of a given number was executed successfully.
+*/

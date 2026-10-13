@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java program to search for an element in an array using the Binary Search technique.
     
-//Algorithm:
+Algorithm:
 Start the program.
 Import the Scanner class to get input from the user.
 Read the number of elements in the array.
@@ -17,7 +18,8 @@ If flag == 0, display “Element not found”.
 Close the scanner.
 Stop the program.
 
-//program:
+*/
+
 import java.util.Scanner;
 class BinarySearch {
     public static void main(String ar[]) {
@@ -55,5 +57,7 @@ class BinarySearch {
     }
 }
 
-//Result:
+/*
+Result:
 Thus, the Java program to search for an element in an array using the Binary Search technique was executed successfully.
+*/

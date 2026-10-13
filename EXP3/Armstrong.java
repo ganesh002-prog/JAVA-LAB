@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java program to check whether a given positive number is an Armstrong number or not.
 
-//Algorithm:
+Algorithm:
 Start the program.
 Import the Scanner class to read input from the user.
 Read a positive integer n from the user.
@@ -17,7 +18,8 @@ Close the scanner.
 Stop the program
 
 
-//program:
+*/
+
 import java.util.Scanner;
 public class Armstrong {
     public static void main(String args[]) {
@@ -41,5 +43,7 @@ public class Armstrong {
     }
 }
 
-//Result:
+/*
+Result:
 Thus, the Java program to check whether a given positive number is an Armstrong number or not was executed successfully.
+*/
