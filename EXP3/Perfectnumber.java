@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java program to check whether a given integer is a perfect number or not.
 
-//Algorithm:
+Algorithm:
 Start the program.
 Import the Scanner class to read input from the user.
 Declare integer variables n and sum, and initialize sum = 0.
@@ -16,7 +17,8 @@ Close the scanner.
 Stop the program.
 
 
-//program:
+*/
+
 import java.util.Scanner;
 public class Perfectnumber {
     public static void main(String[] args) {
@@ -39,5 +41,7 @@ public class Perfectnumber {
     }
 }
 
-//Result:
+/*
+Result:
 Thus, the Java program to check whether a given integer is a perfect number or not was executed successfully.
+*/

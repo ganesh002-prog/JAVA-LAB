@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java program to demonstrate thread priorities using the Thread class.
 
-//Algorithm:
+Algorithm:
 Start the program.
 Create three threads: A, B, and C.
 Set minimum priority for thread A, normal-plus-one priority for thread B, and maximum priority for thread C.
@@ -10,7 +11,8 @@ Display the messages and numbers from each thread.
 Stop the program.
 
 
-//program:
+*/
+
 class A extends Thread {
     public void run() {
         System.out.println("Thread A started");
@@ -65,5 +67,7 @@ public class ThreadPriority {
 }
 
 
-//Result:
+/*
+Result:
 The program successfully demonstrates thread creation and setting priorities using setPriority() in Java.
+*/

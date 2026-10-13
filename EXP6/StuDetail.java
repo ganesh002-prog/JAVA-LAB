@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java program to demonstrate inheritance and interface implementation by calculating and displaying a student's details and percentage of marks.
 
-//Algorithm
+Algorithm
 Start the program.
 Declare an interface Exam with the method percent_cal().
 Create a class Student with data members for name, roll number, and marks of two subjects.
@@ -14,7 +15,8 @@ Create an object of the Result class in the main() method.
 Display the student's details and calculate and display the percentage.
 Stop the program
 
-//program:
+*/
+
 interface Exam {
     void percent_cal();
 }
@@ -57,5 +59,7 @@ public class StuDetail {
     }
 }
 
-//Result:
+/*
+Result:
 The Java program was executed successfully. It displays the student's name, roll number, marks in two subjects, and the calculated percentage.
+*/

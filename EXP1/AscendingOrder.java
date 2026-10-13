@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java program to sort the given array elements in ascending order using nested for loops and swapping.
 
-//Algorithm:
+Algorithm:
 Start the program.
 Import the Scanner class to read input from the user.
 Read the number of elements to be stored in the array.
@@ -14,7 +15,8 @@ Close the scanner
 stop the program.
 
     
-//program:
+*/
+
 import java.util.Scanner;
 public class AscendingOrder {
     public static void main(String[] args) {
@@ -48,5 +50,7 @@ public class AscendingOrder {
     }
 }
 
-//Result:
+/*
+Result:
 Thus, the Java program to sort the elements of an array in ascending order was executed successfully.
+*/

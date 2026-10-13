@@ -1,7 +1,8 @@
-//Aim:
+/*
+Aim:
 To write a Java program to find the largest of three integers using the if-else-if statement.
 
-//Algorithm:
+Algorithm:
 Start the program.
 Import the Scanner class to get input from the user.
 Declare three integer variables x, y, and z.
@@ -15,7 +16,8 @@ Close the scanner.
 Stop the program
 
 
-//program:
+*/
+
 import java.util.Scanner;
 class LargestOfThreeNumbers {
     public static void main(String args[]) {
@@ -41,5 +43,7 @@ class LargestOfThreeNumbers {
     }
 }
 
-//Result:
+/*
+Result:
 Thus, the Java program to find the largest of three integers using the if-else-if statement was executed successfully.
+*/
